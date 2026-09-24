@@ -39,7 +39,7 @@ diet_page = st.Page(
 )
 
 progress_page = st.Page(
-    "fitness_pages/Progress.py",
+    "Progress.py",
     title="Progress",
     icon="📊"
 )
